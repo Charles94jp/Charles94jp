@@ -1,11 +1,8 @@
 <!--
-@Author Charles https://github.com/Charles94jp
-
-This icon is from GitHub Atom https://atom.io/
-The original author used some static svg and css implementation, I integrated it into a dynamic svg picture
+I like this animation so much that I used it on my github homepage. If this violates your rights, please contact me and I will delete it immediately.
 -->
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Charles94jp/Charles94jp/master/github-atom-circle.svg" height="400">
+	<img src="https://raw.githubusercontent.com/Charles94jp/Atom-dynamic-svg/master/github-atom-circle.svg" height="400">
 	<br>
 </div>
